@@ -60,7 +60,7 @@ The dashboard answers key questions such as:
 | File | Description |
 |------|-------------|
 | `stackoverflow2024_dashboard.pbix` | Power BI report |
-| `stackoverflow2024.csv` | Raw data (or source link) |
+| `stack-overflow-developer-survey-2024.zip` | Raw data |
 | `README.md` | Project description |
 | `screenshot1.png`, `screenshot2.png`, `screenshot3.png`, `screenshot4.png` | Preview images |
 | `image0(2).png` | Project logo |
