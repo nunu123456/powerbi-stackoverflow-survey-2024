@@ -6,7 +6,7 @@ Visualizing the results of the stack overflow survey 2024 with Power BI
 </p>
 
 <p align="center">
-  <img src="A_logo_in_square_digital_vector_graphic_format_fea.png" alt="Logo" width="100" />
+  <img src="image0(2).png" alt="Logo" width="100" />
 </p>
 
 # 🌍 Stack Overflow Developer Trends 2024 – Power BI Dashboard
