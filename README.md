@@ -1,8 +1,9 @@
+
 # powerbi-stackoverflow-survey-2024
-Visualizing the results of the stack overflow survey 2024 with Power BI
+Visualizing the results of the Stack Overflow Survey 2024 with Power BI
 
 <p align="center">
-  <img src="image0(1).png" alt="Titelbild Power BI Dashboard" width="100%">
+  <img src="image0(1).png" alt="Power BI Dashboard Banner" width="100%">
 </p>
 
 <p align="center">
@@ -11,89 +12,89 @@ Visualizing the results of the stack overflow survey 2024 with Power BI
 
 # 🌍 Stack Overflow Developer Trends 2024 – Power BI Dashboard
 
-Dieses Power BI-Projekt visualisiert die globalen Ergebnisse der **Stack Overflow Developer Survey 2024**. Es bietet interaktive Einblicke in Technologien, Tools und Demografie der weltweiten Entwickler-Community.
+This Power BI project visualizes the global results of the **Stack Overflow Developer Survey 2024**. It provides interactive insights into technologies, tools, and the demographics of the global developer community.
 
 ---
 
-## 🔍 Inhalt
+## 🔍 Overview
 
-Das Dashboard beantwortet u. a. folgende Fragen:
+The dashboard answers key questions such as:
 
-- Welche **Programmiersprachen**, **Datenbanken** und **Webframeworks** sind weltweit am beliebtesten?
-- Wie stark sind **AI-Tools** (wie ChatGPT, Copilot etc.) in der Entwicklungspraxis angekommen?
-- Welche Betriebssysteme und Embedded-Plattformen werden am häufigsten verwendet?
-- Wie unterscheiden sich **Gehaltsstrukturen**, **Altersverteilung** und **technologische Vorlieben** je nach Region oder Beruf?
-- Welche Korrelationen bestehen zwischen Erfahrung, Technologieeinsatz und Einkommen?
+- What are the most popular **programming languages**, **databases**, and **web frameworks** worldwide?
+- How widely are **AI tools** (such as ChatGPT, Copilot, etc.) used in software development?
+- Which operating systems and embedded platforms are used most frequently?
+- How do **salary structures**, **age distributions**, and **technological preferences** vary by region or profession?
+- What correlations exist between experience, technology usage, and income?
 
 ---
 
 ## 📊 Features
 
-- 🌐 **Globale Filter**: Nach Region, Beruf, Alter, etc. 
-- 📈 **KPIs & Diagramme**: Verbreitung, Trends, Rankings 
-- 🗺️ **Interaktive Karten**: Nutzungstrends nach Ländern 
-- 🔄 **Vergleich & Korrelationen**: z. B. AI-Nutzung vs. Berufserfahrung 
-- 💬 **Visuelle Storytelling-Elemente** 
+- 🌐 **Global filters**: by region, profession, age, etc.
+- 📈 **KPIs & charts**: distribution, trends, rankings
+- 🗺️ **Interactive maps**: technology usage by country
+- 🔄 **Comparison & correlations**: e.g. AI usage vs. experience
+- 💬 **Visual storytelling elements**
 
 ---
 
-## 🧩 Technologien & Daten
+## 🧩 Technology & Data
 
-- 📌 **Power BI Desktop (.pbix)** 
-- 📁 **Datengrundlage**: [Stack Overflow Survey 2024 (CSV)](https://insights.stackoverflow.com/survey) 
-- 🧠 **Verarbeitet mit**: Power Query, DAX, Kartenvisualisierung, Correlation Analysis 
-
----
-
-## 📸 Weitere Vorschau
-
-![Screenshot 1](screenshot1.png) 
-![Screenshot 2](screenshot2.png)
-![Screenshot 1](screenshot3.png) 
-![Screenshot 1](screenshot4.png) 
+- 📌 **Power BI Desktop (.pbix)**
+- 📁 **Data source**: [Stack Overflow Survey 2024 (CSV)](https://insights.stackoverflow.com/survey)
+- 🧠 **Built with**: Power Query, DAX, map visuals, correlation analysis
 
 ---
 
-## 🗂️ Dateien im Repository
+## 📸 Preview
 
-| Datei | Beschreibung |
-|-------|--------------|
-| `stackoverflow2024_dashboard.pbix` | Power BI Report |
-| `stackoverflow2024.csv` | Rohdaten (oder Link zur Quelle) |
-| `README.md` | Projektbeschreibung |
-| `screenshot1.png`, `screenshot2.png`, `screenshot3.png`, `screenshot4.png` | Vorschau-Bilder |
-| `image0(2).png` | Projektlogo |
-| `image0(1).png` | Titelbild |
+![Screenshot 1](screenshot1.png)  
+![Screenshot 2](screenshot2.png)  
+![Screenshot 3](screenshot3.png)  
+![Screenshot 4](screenshot4.png)
 
 ---
 
-## 👥 Zielgruppe
+## 🗂️ Repository Contents
 
-Dieses Projekt richtet sich an:
-- Softwareentwickler:innen & Data Analysts
-- Personen mit Interesse an Technologie-Trends
-- HR, Tech-Strateg:innen & Bildungseinrichtungen
-- Bewerbungen / Portfolio-Präsentationen im Bereich IT & Data
-
----
-
-## 🔗 Weiterführende Links
-
-- [Offizielle Umfrage-Website](https://survey.stackoverflow.co/2024/)
-- [Datenquelle Download (Stack Overflow)](https://survey.stackoverflow.co/2024/#download)
+| File | Description |
+|------|-------------|
+| `stackoverflow2024_dashboard.pbix` | Power BI report |
+| `stackoverflow2024.csv` | Raw data (or source link) |
+| `README.md` | Project description |
+| `screenshot1.png`, `screenshot2.png`, `screenshot3.png`, `screenshot4.png` | Preview images |
+| `image0(2).png` | Project logo |
+| `image0(1).png` | Title image |
 
 ---
 
-## 📄 Lizenz
+## 👥 Target Audience
 
-Dieses Projekt basiert auf frei zugänglichen Umfragedaten. Alle Visualisierungen und Analysen wurden selbst erstellt. Die Rechte an den Rohdaten liegen bei Stack Overflow. 
-Dieses Repository steht unter der [MIT License](LICENSE).
+This project is intended for:
+- Software developers & data analysts
+- Anyone interested in technology trends
+- HR, tech strategists & educational institutions
+- Use in IT/data job applications or portfolios
 
 ---
 
-## 🤝 Kontakt
+## 🔗 Further Links
 
-Bei Fragen oder Feedback:
-**Markus Elstermann** 
-📧 elstermannmarkus@gmail.com
+- [Official survey website](https://survey.stackoverflow.co/2024/)
+- [Download the data (Stack Overflow)](https://survey.stackoverflow.co/2024/#download)
+
+---
+
+## 📄 License
+
+This project is based on publicly available survey data. All visualizations and analyses were independently created. The rights to the raw data remain with Stack Overflow.  
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Contact
+
+For questions or feedback:  
+**Markus Elstermann**  
+📧 elstermannmarkus@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/)
