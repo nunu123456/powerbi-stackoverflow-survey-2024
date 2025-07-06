@@ -55,6 +55,22 @@ The dashboard answers key questions such as:
 
 ---
 
+> ⚠️ **IMPORTANT: Update Parameters in Power Query**
+
+Before using the dashboard, please adjust the **three parameters** in the Power Query Editor:
+
+1. **`SurveyCSVPath`** – the local file path to the Stack Overflow Survey 2024 results CSV  
+2. **`CountryContinentPath`** – the path to the Country-Continent mapping CSV  
+3. **`FilterToOneCountry`** – set this to `0` to load **all countries**  
+   (default is `1` due to GitHub file size limitations; only one country is initially loaded)
+
+➡️ You can access these parameters in **Power BI** under:
+**Transform Data → Manage Parameters**
+
+Make sure the CSV files are extracted and accessible locally, and adjust the paths accordingly.
+
+---
+
 ## 🗂️ Repository Contents
 
 | File | Description |
