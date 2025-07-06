@@ -2,7 +2,7 @@
 Visualizing the results of the stack overflow survey 2024 with Power BI
 
 <p align="center">
-  <img src="A_Power_BI_dashboard_in_the_image_visualizes_the_g.png" alt="Titelbild Power BI Dashboard" width="100%">
+  <img src="image0(1).png" alt="Titelbild Power BI Dashboard" width="100%">
 </p>
 
 <p align="center">
