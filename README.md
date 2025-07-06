@@ -61,9 +61,9 @@ Das Dashboard beantwortet u. a. folgende Fragen:
 | `stackoverflow2024_dashboard.pbix` | Power BI Report |
 | `stackoverflow2024.csv` | Rohdaten (oder Link zur Quelle) |
 | `README.md` | Projektbeschreibung |
-| `screenshot1.png`, `screenshot2.png` | Vorschau-Bilder |
-| `A_logo_in_square_digital_vector_graphic_format_fea.png` | Projektlogo |
-| `A_Power_BI_dashboard_in_the_image_visualizes_the_g.png` | Titelbild |
+| `screenshot1.png`, `screenshot2.png`, `screenshot3.png`, `screenshot4.png` | Vorschau-Bilder |
+| `image0(2).png` | Projektlogo |
+| `image0(1).png` | Titelbild |
 
 ---
 
