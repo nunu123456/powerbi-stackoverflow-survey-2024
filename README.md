@@ -75,6 +75,7 @@ Make sure the CSV files are extracted and accessible locally, and adjust the pat
 
 | File | Description |
 |------|-------------|
+| `stackoverflowsurvey2024_v2.pbix` | Power BI Report |
 | `stackoverflowsurvey2024.pdf` | Power BI report as PDF|
 | `stack-overflow-developer-survey-2024.zip` | Raw data |
 | `README.md` | Project description |
